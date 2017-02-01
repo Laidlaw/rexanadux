@@ -1,0 +1,11 @@
+{
+    "description": "Basic HTML edition",
+    "plugins": [
+        "tiddlywiki/highlight",
+        "tiddlywiki/github-fork-ribbon"
+    ],
+    "themes": [
+        "tiddlywiki/vanilla",
+        "tiddlywiki/snowwhite"
+    ]
+}

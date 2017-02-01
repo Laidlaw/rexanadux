@@ -1,0 +1,13 @@
+created: 20150605132135076
+modified: 20160308201830495
+order: 2
+tags: Questions
+title: Have you committed?
+type: text/vnd.tiddlywiki
+
+Run `git status` to determine whether there's an unfinished merge, unfinished rebase or uncommitted changes.
+
+* [[I am in the middle of a bad merge|Recovering from a borked/stupid/moribund merge]]
+* [[I am in the middle of a bad rebase|Recovering from a borked/stupid/moribund rebase]]
+* [[Yes, commits were made|Do you have uncommitted stuff in your working directory?]]
+* [[No, I have not yet committed|Discard everything or just some things?]]
